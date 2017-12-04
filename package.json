@@ -1,0 +1,26 @@
+{
+  "name": "ramda-doc-parser",
+  "version": "0.1.0",
+  "description": "ramda documentation parser generating a JSON representation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "ramda",
+    "parser",
+    "doc",
+    "json"
+  ],
+  "author": "Renat Osmanov",
+  "license": "MIT",
+  "dependencies": {
+    "osmosis": "^1.1.4"
+  },
+  "bugs": "https://github.com/osmanov/ramda-doc-parser/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osmanov/ramda-doc-parser"
+  },
+  "homepage": "https://github.com/osmanov/ramda-doc-parser"
+}
